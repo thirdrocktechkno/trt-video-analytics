@@ -20,3 +20,7 @@ get video track array data
 
 var trackArr = video.trackArr;
 
+video.trackArr = [1,1,1,1,1,2,2,2,2,2,1,1,1,1,1,1,3,3,3,3,3,3,3,undefined,undefined,undefined,undefinedundefinedundefined,1,1,1,1,1]
+
+video.canplay --> gives the total length of video in seconds
+
